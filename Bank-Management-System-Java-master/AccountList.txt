@@ -1,0 +1,14 @@
+1
+97645588
+9047
+16100.0
+Syeda Dua
+Fatima
+fatimadua65@gmail.com
+1234567890
+9183
+SDF street karachi
+Student
+female
+Sat Jan 20 00:00:00 PST 3900
+false
